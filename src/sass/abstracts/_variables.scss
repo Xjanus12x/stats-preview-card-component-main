@@ -1,0 +1,26 @@
+$bp-mobile: 375px;
+$bp-desktop: 1440px;
+
+$primaryColors: (
+  "very-dark-blue": hsl(233, 47%, 7%),
+  "dark-desaturated-blue": hsl(244, 38%, 16%),
+  "soft-violet": hsl(277, 64%, 61%),
+);
+
+$neutralColors: (
+  "white": hsl(0, 0%, 100%),
+  "semi-slightly-transparent-white": hsla(0, 0%, 100%, 0.75),
+  "slightly-transparent-white": hsla(0, 0%, 100%, 0.6),
+);
+
+$fontSize: 15px;
+
+$fontWeights: (
+  "regular": 400,
+  "bold": 700,
+);
+
+// Font family
+$inter: 'Inter', sans-serif;;
+$lexend-deca: 'Lexend Deca', sans-serif;
+
